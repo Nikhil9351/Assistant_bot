@@ -1,0 +1,33 @@
+requirements:
+
+1. python version 3.6 (only python 3.6 ,python 3.7 doesnot works as it does not support pyaudio library used for speech recognition)
+2. internet connection
+3. following libraries in ide:
+os,webbrowser,pyttsx3,speechrecognition,datetime,wikipedia
+4. microphone and speakers(in-built or external)
+
+-----------------------------------------------------------------------------------
+how to operate:
+
+after meeting above criteria (python version 3.6 is required python 3.7 doesnot support some of libraries),start the program. it will greet you and ask for the command.
+first call its name(friday),you can set its name in the code.
+"listening..." will appear on screen then speak your query or command.
+
+note:the voice recognittion is slow so be patient nad donot yell at code.
+
+you can choose the commands from below
+
+-----------------------------------------------------------------------------------
+commands:
+
+1. today's date or time
+2. open google,youtube,instagram,facebook,wikipedia
+3. open <name of website> in browser or open <name of website>.com
+4. open documents,pictures,downloads,videos and play music (paths has to specify)
+5. open <any application name or path > path and name to be specified in code.
+6. search <query> on google
+7. search <video name> on youtube
+8. search <query> on wikipedia (reads out and prints the first 3 lines and provides a  link to wiki page)
+9. what is <query> (search google)
+10. what can you do
+11. stop (terminate the program)
