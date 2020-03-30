@@ -1,3 +1,4 @@
+how to run AI_project.py :
 requirements:
 
 1. python version 3.6 (only python 3.6 ,python 3.7 doesnot works as it does not support pyaudio library used for speech recognition)
